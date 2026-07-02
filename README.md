@@ -56,7 +56,7 @@ https://github.com/user-attachments/assets/395b0632-b9c5-42ec-a5a1-d57a7d7bcf2d
 
 ## Author
 
-**Sanjyot Laxman Dake**
+**Shreya Kulbhushan Patwadkar**
 
 BE – Electronics & Telecommunication Engineering
 
